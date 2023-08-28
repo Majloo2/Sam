@@ -58,7 +58,11 @@ public class jenkinsGitGubConnection {
 			
 		}
 	}
-
+	public void Sam(){
+	int x = 5;
+	System.out.println(x);
+	
+	}
 	public enum Browsers {
 		CHROME
 	}
